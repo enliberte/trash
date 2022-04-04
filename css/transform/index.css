@@ -1,0 +1,12 @@
+img {
+    width: 300px;
+    transition: all 1s ease;
+    /*transform-origin: right bottom;*/
+}
+
+img:hover {
+    /*transform: rotate(90deg);*/
+    /*transform: scale(2, 0.5);*/
+    /*transform: translate(20px, 50px);*/
+    /*transform: skew(10deg, 20deg);*/
+}

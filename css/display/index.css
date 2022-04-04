@@ -1,0 +1,14 @@
+.inline {
+    line-height: 5px;
+    display: inline;
+}
+
+.block {
+    width: 200px;
+    display: block;
+}
+
+.inline-block {
+    width: 200px;
+    display: inline-block;
+}

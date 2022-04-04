@@ -1,0 +1,8 @@
+ul {
+    padding: 0;
+}
+
+.first {
+    list-style-type: decimal;
+    list-style-position: inside;
+}

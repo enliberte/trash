@@ -1,0 +1,17 @@
+.outer {
+    /*bottom: 300px;*/
+    position: relative;
+    background-color: green;
+    height: 1500px;
+}
+
+.inner {
+    top: 0;
+    position: sticky;
+    background-color: red;
+    height: 500px;
+}
+
+.another {
+    height: 1500px;
+}

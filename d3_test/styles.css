@@ -1,0 +1,26 @@
+.main__container {
+    display: flex;
+    flex-direction: column;
+}
+
+#legend {
+
+}
+
+#widget {
+    height: 100%;
+}
+
+.container {
+    width: 250px;
+    height: 200px;
+    border: 1px solid #720570;
+}
+
+.bar {
+    fill: #720570;
+}
+
+.svg-container {
+    /*border: 1px solid #720570;*/
+}
